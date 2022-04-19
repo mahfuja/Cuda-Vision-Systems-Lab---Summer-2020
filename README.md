@@ -1,4 +1,5 @@
 # Cuda-Vision-Systems-Lab-Summer'2020
+Author: Mahfuja Akter and Heiko Schmidt
 
 How to implement deep learning algorithms from the area
 of visual pattern recognition using PyTorch library with python.
